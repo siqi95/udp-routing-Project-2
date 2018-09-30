@@ -1,0 +1,3 @@
+g++ -o test router_eoin.cpp RoutingTable_eoin.cpp EdgeList_eoin.cpp VertexList_eoin.cpp
+
+./test topology.txt A
